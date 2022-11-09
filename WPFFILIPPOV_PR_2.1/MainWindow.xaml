@@ -45,6 +45,5 @@
         </Button>
         <Button Content="&lt;=" HorizontalAlignment="Left" Margin="62,79,0,0" VerticalAlignment="Top" Width="146" Height="31" FontSize="18" BorderThickness="2" Click="R_Click">
         </Button>
-
     </Grid>
 </Window>  
